@@ -1,0 +1,8 @@
+enabled: true
+built_in_css: true
+
+quotes:
+  -
+    quote-text: 'Technology is a word that describes something that doesn’t work yet.'
+    quote-name: 'Douglas Adams'
+
